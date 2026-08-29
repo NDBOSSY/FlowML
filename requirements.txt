@@ -1,0 +1,8 @@
+numpy
+pandas
+chardet
+matplotlib
+scikit-learn
+xgboost
+catboost
+joblib
